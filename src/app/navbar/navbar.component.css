@@ -1,0 +1,8 @@
+.slider {
+    position: absolute;
+    bottom: -5px;
+    margin-left: 2.2em;
+    border-bottom: 2px solid white;
+    transition: 0.3s;
+    width: 50px;
+  }

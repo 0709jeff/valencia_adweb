@@ -1,0 +1,28 @@
+:host {
+    display: block;
+    margin-top: 1rem
+}
+
+.open-close-container{
+    border: 1px solid #dddddd;
+    margin-top: 1rem;
+    padding: 20px 20px 0px 20px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+body{
+    text-align: center;
+    font-family: '', sans-serif;
+    font-family: Century Gothic;
+    background: none;
+}   
+.col-sm-4{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    color: black;
+}

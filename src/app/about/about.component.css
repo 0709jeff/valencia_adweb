@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+h1{
+    text-align: center;
+}
+img{
+    align-items: center;
+}
+
+body{
+    text-align: center;
+    font-family: '', sans-serif;
+    font-family: Century Gothic;
+    background: none;
+}   
+.col-sm-4{
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+/* about section image css */
+.imageAboutPage {
+    width: 50%;
+}
+.box {
+    overflow: hidden;
+    background-color: #6756f1;
+  }
